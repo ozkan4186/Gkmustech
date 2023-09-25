@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  margin: 10rem;
+  color: blue;
+  font-size: 5rem;
+  text-decoration: underline;
+  cursor: pointer;
+
+
+}
+.App:hover {
+  color: brown;
 }
 
 .App-logo {
